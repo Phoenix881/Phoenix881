@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### Who am I?
+Fast-learning university student with internship experience in Software Development, specializing in full-stack development, data analysis, and working with AI/ML/LLMs. Majoring in mathematics and statistics degree, I thrive to apply the skills and the way of thinking I learn from the classes to do my part in solving real-world problems in startups and businesses alike.
+
+#### What I kind do?
+Programming languages (Python, R, SQL, JavaScript, C/C++), Jupyter Notebooks, Data Visualization, Microsoft Excel, Web Backend (FastAPl, Flask), GitHub, Docker, Llama.cpp, LLM fine-tuning, ML on Python, Virtual machines (UTM, QEMU, VirtualBox), OpenAl API, Analytical Thinking, Logical Thinking, Problem-solving, Communication, Adaptability, Creativity.
