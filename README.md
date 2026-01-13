@@ -1,4 +1,4 @@
-## Hi there 👋
+## W3lc0m3 t0 m4 p4g3, fri3nd
 
 <!--
 **Phoenix881/Phoenix881** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 ![Banner GIF image](header-2.gif)
 
 #### Who am I?
-Fast-learning university student with internship experience in Software Development, specializing in full-stack development, data analysis, and working with AI/ML/LLMs. Majoring in mathematics and statistics degree, I thrive to apply the skills and the way of thinking I learn from the classes to do my part in solving real-world problems in startups and businesses alike.
+Fast-learning university student...blah-blah-blah - all right, that's on my CV already. Not need for tautology. 
+
+I'm Kieran, a sophomore mathematics students from Hong Kong. 
 
 #### What I kind do?
 Programming languages (Python, R, SQL, JavaScript, C/C++), Jupyter Notebooks, Data Visualization, Microsoft Excel, Web Backend (FastAPl, Flask), GitHub, Docker, Llama.cpp, LLM fine-tuning, ML on Python, Virtual machines (UTM, QEMU, VirtualBox), OpenAl API, Analytical Thinking, Logical Thinking, Problem-solving, Communication, Adaptability, Creativity.
