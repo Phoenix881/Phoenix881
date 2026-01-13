@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Banner GIF image](header-2.gif)
+
 #### Who am I?
 Fast-learning university student with internship experience in Software Development, specializing in full-stack development, data analysis, and working with AI/ML/LLMs. Majoring in mathematics and statistics degree, I thrive to apply the skills and the way of thinking I learn from the classes to do my part in solving real-world problems in startups and businesses alike.
 
