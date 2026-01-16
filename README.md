@@ -18,9 +18,33 @@ Here are some ideas to get you started:
 ![Banner GIF image](header-2.gif)
 
 #### Who am I?
-Fast-learning university student...blah-blah-blah - all right, that's on my CV already. Not need for tautology. 
+Hi! I'm Kieran, a sophomore mathematics students from Hong Kong. 
 
-I'm Kieran, a sophomore mathematics students from Hong Kong. My journey with software development started quite recently, at the end of my high school with taking Harvard's CS50. For that course's final project I developed a simple sudoku solver that used a simple and intuitive algorithm I came up with, with it on board my script could solve any logically-solveable sudoku puzzle in a matter of a second. Next, during the summer after my first year in college I got an internship focused on web coding and working with Large Language Models, that's where I built a full-stack web app to aim in grading data analysis students' Jupyter notebooks. 
+My journey with software development started quite recently, at the end of my high school with taking Harvard's CS50. Next, during the summer after my first year in college I got an internship focused on web coding and working with Large Language Models, that's where I built a full-stack web app to aid in grading data analysis students' Jupyter notebooks. 
+
+I'm interested in Software Engineering, Data Analysis, working with AI, and low-level coding (although the last one is mainly as a hobby).
 
 #### What I kind do?
-Programming languages (Python, R, SQL, JavaScript, C/C++), Jupyter Notebooks, Data Visualization, Microsoft Excel, Web Backend (FastAPl, Flask), GitHub, Docker, Llama.cpp, LLM fine-tuning, ML on Python, Virtual machines (UTM, QEMU, VirtualBox), OpenAl API, Analytical Thinking, Logical Thinking, Problem-solving, Communication, Adaptability, Creativity.
+
+- Programming languages:
+    - Python 
+    - R
+    - SQL
+    - C/C++
+    - Java
+    - JavaScript
+
+- Technology stacks
+    - Data Visualization    [Microsoft Excel, Jupyter Notebooks]
+    - Web Backend           [OpenAPI, FastAPl, Flask]
+    - Large Language Models [llama.cpp, Ollama, fine-tuning]
+    - Git & GitHub & GitHub CLI
+    - Docker
+    - Virtual Machines      [UTM, QEMU, VirtualBox, VMWare Fusion]
+    - Linux
+
+- Applications
+    - Microsoft Office Suite (Word, PowerPoint, Excel)
+    - Apple iWork Suite (Pages, Keynote, Numbers)
+    - Visual Studio Code
+    - iTerm2
