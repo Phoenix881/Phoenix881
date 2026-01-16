@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 #### Who am I?
 Hi! I'm Kieran, a sophomore mathematics students from Hong Kong. 
 
-My journey with software development started quite recently, at the end of my high school with taking Harvard's CS50. Next, during the summer after my first year in college I got an internship focused on web coding and working with Large Language Models, that's where I built a full-stack web app to aid in grading data analysis students' Jupyter notebooks. 
+My journey with proper software development started quite recently, at the end of my high school with taking Harvard's CS50. Next, during the summer after my first year in college I got an internship focused on web coding and working with Large Language Models; that's where I built a full-stack web app to aid in grading data analysis students' Jupyter notebooks. 
 
-I'm interested in Software Engineering, Data Analysis, working with AI, and low-level coding (although the last one is mainly as a hobby).
+I'm interested in Software Engineering, Data Analysis, working with AI. I'm also fascinated with terminals, Linux, and coding in low-level languages such as C.
 
-#### What I kind do?
+#### What can I do?
 
 - Programming languages:
     - Python 
@@ -35,16 +35,17 @@ I'm interested in Software Engineering, Data Analysis, working with AI, and low-
     - JavaScript
 
 - Technology stacks
-    - Data Visualization    [Microsoft Excel, Jupyter Notebooks]
-    - Web Backend           [OpenAPI, FastAPl, Flask]
+    - Data Visualization [Microsoft Excel, Jupyter Notebooks, Python Pandas & Numpy & Matplotlib]
+    - Web Backend [OpenAPI, FastAPl, Flask]
     - Large Language Models [llama.cpp, Ollama, fine-tuning]
     - Git & GitHub & GitHub CLI
     - Docker
-    - Virtual Machines      [UTM, QEMU, VirtualBox, VMWare Fusion]
+    - Virtual Machines [UTM, QEMU, VirtualBox, VMWare Fusion]
     - Linux
 
 - Applications
     - Microsoft Office Suite (Word, PowerPoint, Excel)
     - Apple iWork Suite (Pages, Keynote, Numbers)
-    - Visual Studio Code
+    - Visual Studio & Visual Studio Code
+    - IntelliJ IDEA
     - iTerm2
